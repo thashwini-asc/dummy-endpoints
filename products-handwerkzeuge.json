@@ -1,0 +1,26 @@
+[
+  {
+    "id": 3001,
+    "title": "Hammer 500g",
+    "slug": "hammer-500g",
+    "price": 9.99,
+    "description": "Klassischer Handhammer für Heimwerker und Profis.",
+    "image": "https://dummyimage.com/300x300/handwerkzeuge1.jpg"
+  },
+  {
+    "id": 3002,
+    "title": "Schraubenzieher Set 6-teilig",
+    "slug": "schraubenzieher-set-6-teilig",
+    "price": 14.49,
+    "description": "Robustes Set mit verschiedenen Schraubenziehern.",
+    "image": "https://dummyimage.com/300x300/handwerkzeuge2.jpg"
+  },
+  {
+    "id": 3003,
+    "title": "Zange Kombi 20cm",
+    "slug": "zange-kombi-20cm",
+    "price": 11.99,
+    "description": "Praktische Kombizange für Schneiden, Greifen und Biegen.",
+    "image": "https://dummyimage.com/300x300/handwerkzeuge3.jpg"
+  }
+]
