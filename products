@@ -1,0 +1,112 @@
+[
+  {
+    "id": 101,
+    "title": "Multifunktionskabel 5m",
+    "slug": "multifunktionskabel-5m",
+    "price": 12.99,
+    "description": "Hochflexibles Fahrzeugkabel, 5 Meter, 4-adrig, UV-beständig.",
+    "category": { "id": 1, "name": "Elektrik", "slug": "elektrik", "image": "https://placehold.co/200x150?text=Elektrik" },
+    "images": ["https://placehold.co/800x600?text=Kabel-1","https://placehold.co/800x600?text=Kabel-2"],
+    "subcategoryId": 1
+  },
+  {
+    "id": 102,
+    "title": "Flachsicherung 25A (10er Pack)",
+    "slug": "flachsicherung-25a-10er",
+    "price": 4.5,
+    "description": "Standard-Flachsicherungen für Bordnetze, 25 Ampere, 10 Stück.",
+    "category": { "id": 1, "name": "Elektrik", "slug": "elektrik", "image": "https://placehold.co/200x150?text=Elektrik" },
+    "images": ["https://placehold.co/800x600?text=Sicherung"],
+    "subcategoryId": 2
+  },
+  {
+    "id": 103,
+    "title": "Relais 12V 40A",
+    "slug": "relais-12v-40a",
+    "price": 7.25,
+    "description": "Universelles 12V Relais, 4-polig, für Scheinwerfer und Zubehör.",
+    "category": { "id": 1, "name": "Elektrik", "slug": "elektrik", "image": "https://placehold.co/200x150?text=Elektrik" },
+    "images": ["https://placehold.co/800x600?text=Relais"],
+    "subcategoryId": 2
+  },
+  {
+    "id": 201,
+    "title": "Universal-Schraubensatz (100er)",
+    "slug": "universal-schraubensatz-100er",
+    "price": 9.99,
+    "description": "Schrauben und Muttern in verschiedenen Größen für Montagearbeiten.",
+    "category": { "id": 2, "name": "Installation", "slug": "installation", "image": "https://placehold.co/200x150?text=Installation" },
+    "images": ["https://placehold.co/800x600?text=Schrauben"],
+    "subcategoryId": 3
+  },
+  {
+    "id": 202,
+    "title": "Gummidichtung Satz (Tür & Heck)",
+    "slug": "gummidichtung-satz",
+    "price": 14.5,
+    "description": "Wetterfeste Dichtungen für Türen und Kofferraum, universal passend.",
+    "category": { "id": 2, "name": "Installation", "slug": "installation", "image": "https://placehold.co/200x150?text=Installation" },
+    "images": ["https://placehold.co/800x600?text=Dichtung"],
+    "subcategoryId": 4
+  },
+  {
+    "id": 301,
+    "title": "Drehmomentschlüssel 1/2\"",
+    "slug": "drehmomentschluessel-1-2",
+    "price": 49.99,
+    "description": "Präziser Drehmomentschlüssel mit klickfunktion, 10–80 Nm.",
+    "category": { "id": 3, "name": "Werkzeuge", "slug": "werkzeuge", "image": "https://placehold.co/200x150?text=Werkzeuge" },
+    "images": ["https://placehold.co/800x600?text=Schluessel"],
+    "subcategoryId": 5
+  },
+  {
+    "id": 302,
+    "title": "Satz Steckschlüssel 1/4\" (12-teilig)",
+    "slug": "steckschluessel-satz-12",
+    "price": 29.95,
+    "description": "Robuste Steckschlüssel für Schraubarbeiten am Fahrzeug.",
+    "category": { "id": 3, "name": "Werkzeuge", "slug": "werkzeuge", "image": "https://placehold.co/200x150?text=Werkzeuge" },
+    "images": ["https://placehold.co/800x600?text=Steckschluessel"],
+    "subcategoryId": 5
+  },
+  {
+    "id": 303,
+    "title": "Digitales Multimeter",
+    "slug": "digitales-multimeter",
+    "price": 19.9,
+    "description": "Multimeter zur Messung von Spannung, Strom und Widerstand.",
+    "category": { "id": 3, "name": "Werkzeuge", "slug": "werkzeuge", "image": "https://placehold.co/200x150?text=Werkzeuge" },
+    "images": ["https://placehold.co/800x600?text=Multimeter"],
+    "subcategoryId": 6
+  },
+  {
+    "id": 401,
+    "title": "LED Scheinwerferlampe H4",
+    "slug": "led-scheinwerferlampe-h4",
+    "price": 24.5,
+    "description": "Hochleistungs-LED H4 Lampe, lange Lebensdauer und geringe Wärmeentwicklung.",
+    "category": { "id": 4, "name": "Beleuchtung", "slug": "beleuchtung", "image": "https://placehold.co/200x150?text=Beleuchtung" },
+    "images": ["https://placehold.co/800x600?text=LED-H4"],
+    "subcategoryId": 7
+  },
+  {
+    "id": 402,
+    "title": "Innenraum-LED-Streifen 2m",
+    "slug": "innenraum-led-streifen-2m",
+    "price": 11.0,
+    "description": "Flexible, dimmbare LED-Streifen zum Nachrüsten der Innenbeleuchtung.",
+    "category": { "id": 4, "name": "Beleuchtung", "slug": "beleuchtung", "image": "https://placehold.co/200x150?text=Beleuchtung" },
+    "images": ["https://placehold.co/800x600?text=LED-Strip"],
+    "subcategoryId": 8
+  },
+  {
+    "id": 403,
+    "title": "Halogen-Scheinwerferbirne H7",
+    "slug": "halogen-scheinwerferbirne-h7",
+    "price": 7.75,
+    "description": "Standard H7 Halogenlampe mit gutem Preis-Leistungs-Verhältnis.",
+    "category": { "id": 4, "name": "Beleuchtung", "slug": "beleuchtung", "image": "https://placehold.co/200x150?text=Beleuchtung" },
+    "images": ["https://placehold.co/800x600?text=Halogen-H7"],
+    "subcategoryId": 7
+  }
+]
