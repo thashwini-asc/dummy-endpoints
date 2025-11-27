@@ -5,7 +5,7 @@
     "slug": "aa-alkaline-batterie-4er-pack",
     "price": 5.99,
     "description": "Hochwertige AA-Batterien für Fernbedienungen, Spielzeug und Geräte.",
-    "image": "https://dummyimage.com/300x300/batterien1.jpg"
+    "image": "https://images.unsplash.com/photo-1486262715619-67b85e0b08d3?q=80&w=1632&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
   },
   {
     "id": 1002,
@@ -13,7 +13,7 @@
     "slug": "9v-batterie",
     "price": 3.49,
     "description": "9V Batterie für Rauchmelder und andere elektronische Geräte.",
-    "image": "https://dummyimage.com/300x300/batterien2.jpg"
+    "image": "https://plus.unsplash.com/premium_photo-1661964291917-b20c2648fac6?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8Y2FyJTIwcGFydHN8ZW58MHx8MHx8fDA%3D"
   },
   {
     "id": 1003,
@@ -29,7 +29,7 @@
     "slug": "hdmi-kabel-2m",
     "price": 9.99,
     "description": "Hochwertiges HDMI Kabel für Full HD und 4K Geräte.",
-    "image": "https://dummyimage.com/300x300/kabel1.jpg"
+    "image": "https://images.unsplash.com/photo-1522598140461-ec9911e01c53?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8Y2FyJTIwcGFydHN8ZW58MHx8MHx8fDA%3D"
   },
   {
     "id": 1012,
@@ -37,7 +37,7 @@
     "slug": "usb-c-kabel-1m",
     "price": 6.49,
     "description": "Schnelles USB-C Kabel zum Laden und Datenübertragen.",
-    "image": "https://dummyimage.com/300x300/kabel2.jpg"
+    "image": "https://images.unsplash.com/photo-1663642775693-6628f65358be?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8Y2FyJTIwcGFydHN8ZW58MHx8MHx8fDA%3D"
   },
   {
     "id": 1013,
@@ -45,6 +45,6 @@
     "slug": "stromkabel-3m",
     "price": 7.99,
     "description": "Robustes Stromkabel für Haushaltsgeräte und Werkzeuge.",
-    "image": "https://dummyimage.com/300x300/kabel3.jpg"
+    "image": "https://plus.unsplash.com/premium_photo-1681426673022-db3d911ea11a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8Y2FyJTIwcGFydHN8ZW58MHx8MHx8fDA%3D"
   }
 ]
