@@ -1,22 +1,16 @@
 [
   {
-    "id": 102,
-    "title": "Flachsicherung 25A (10er Pack)",
-    "slug": "flachsicherung-25a-10er",
-    "price": 4.5,
-    "description": "Standard-Flachsicherungen für Bordnetze, 25 Ampere, 10 Stück.",
-    "category": { "id": 1, "name": "Elektrik", "slug": "elektrik", "image": "https://placehold.co/200x150?text=Elektrik" },
-    "images": ["https://placehold.co/800x600?text=Sicherung"],
-    "subcategoryId": 2
+    "id": 201,
+    "categoryId": 2,
+    "name": "Schrauben",
+    "slug": "schrauben",
+    "image": "https://dummyimage.com/schrauben.jpg"
   },
   {
-    "id": 103,
-    "title": "Relais 12V 40A",
-    "slug": "relais-12v-40a",
-    "price": 7.25,
-    "description": "Universelles 12V Relais, 4-polig, für Scheinwerfer und Zubehör.",
-    "category": { "id": 1, "name": "Elektrik", "slug": "elektrik", "image": "https://placehold.co/200x150?text=Elektrik" },
-    "images": ["https://placehold.co/800x600?text=Relais"],
-    "subcategoryId": 2
+    "id": 202,
+    "categoryId": 2,
+    "name": "Halterungen",
+    "slug": "halterungen",
+    "image": "https://dummyimage.com/halterungen.jpg"
   }
 ]
