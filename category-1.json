@@ -1,4 +1,0 @@
-[
-  { "id": 201, "title": "Universal-Schraubensatz (100er)", "slug": "universal-schraubensatz-100er", "price": 9.99, "description": "Schrauben und Muttern in verschiedenen Größen für Montagearbeiten.", "category": { "id": 2, "name": "Installation", "slug": "installation", "image": "https://placehold.co/200x150?text=Installation" }, "images": ["https://placehold.co/800x600?text=Schrauben"], "subcategoryId": 3 },
-  { "id": 202, "title": "Gummidichtung Satz (Tür & Heck)", "slug": "gummidichtung-satz", "price": 14.5, "description": "Wetterfeste Dichtungen für Türen und Kofferraum, universal passend.", "category": { "id": 2, "name": "Installation", "slug": "installation", "image": "https://placehold.co/200x150?text=Installation" }, "images": ["https://placehold.co/800x600?text=Dichtung"], "subcategoryId": 4 }
-]
