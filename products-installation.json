@@ -5,7 +5,7 @@
     "slug": "holzschrauben-100er-pack",
     "price": 8.99,
     "description": "Vielseitige Holzschrauben für Möbel und Reparaturen.",
-    "image": "https://dummyimage.com/300x300/schrauben1.jpg"
+    "image": "https://images.unsplash.com/photo-1552656967-7a0991a13906?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fGNhciUyMHBhcnRzfGVufDB8fDB8fHww"
   },
   {
     "id": 2002,
@@ -13,7 +13,7 @@
     "slug": "metallschrauben-50er-pack",
     "price": 6.99,
     "description": "Starke Metallschrauben für Metallkonstruktionen.",
-    "image": "https://dummyimage.com/300x300/schrauben2.jpg"
+    "image": "https://images.unsplash.com/photo-1578844251758-2f71da64c96f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fGNhciUyMHBhcnRzfGVufDB8fDB8fHww"
   },
   {
     "id": 2003,
@@ -21,7 +21,7 @@
     "slug": "schraubenset-gemischt",
     "price": 12.49,
     "description": "Praktisches Set mit verschiedenen Schraubengrößen.",
-    "image": "https://dummyimage.com/300x300/schrauben3.jpg"
+    "image": "https://plus.unsplash.com/premium_photo-1664299397754-9e433381039d?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fGNhciUyMHBhcnRzfGVufDB8fDB8fHww"
   },
   {
     "id": 2011,
@@ -29,7 +29,7 @@
     "slug": "wandhalterung-tv-32-55-zoll",
     "price": 29.99,
     "description": "Robuste TV-Wandhalterung für Fernseher von 32 bis 55 Zoll.",
-    "image": "https://dummyimage.com/300x300/halterungen1.jpg"
+    "image": "https://images.unsplash.com/photo-1654742967873-0bfb6cd0e719?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fGNhciUyMHBhcnRzfGVufDB8fDB8fHww"
   },
   {
     "id": 2012,
@@ -37,7 +37,7 @@
     "slug": "regalhalterung-metall",
     "price": 14.99,
     "description": "Einfache und stabile Metallhalterung für Regale.",
-    "image": "https://dummyimage.com/300x300/halterungen2.jpg"
+    "image": "https://images.unsplash.com/photo-1537462715879-360eeb61a0ad?q=80&w=1538&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
   },
   {
     "id": 2013,
@@ -45,6 +45,6 @@
     "slug": "deckenhalterung-lampe",
     "price": 11.49,
     "description": "Halterung für Lampen zur sicheren Deckenmontage.",
-    "image": "https://dummyimage.com/300x300/halterungen3.jpg"
+    "image": "https://images.unsplash.com/photo-1611633235555-45e252fe48c8?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
   }
 ]
