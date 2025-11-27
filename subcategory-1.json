@@ -1,0 +1,12 @@
+[
+  {
+    "id": 101,
+    "title": "Multifunktionskabel 5m",
+    "slug": "multifunktionskabel-5m",
+    "price": 12.99,
+    "description": "Hochflexibles Fahrzeugkabel, 5 Meter, 4-adrig, UV-beständig.",
+    "category": { "id": 1, "name": "Elektrik", "slug": "elektrik", "image": "https://placehold.co/200x150?text=Elektrik" },
+    "images": ["https://placehold.co/800x600?text=Kabel-1","https://placehold.co/800x600?text=Kabel-2"],
+    "subcategoryId": 1
+  }
+]
