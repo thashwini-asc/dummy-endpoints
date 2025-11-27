@@ -1,5 +1,0 @@
-[
-  { "id": 301, "title": "Drehmomentschlüssel 1/2\"", "slug": "drehmomentschluessel-1-2", "price": 49.99, "description": "Präziser Drehmomentschlüssel mit klickfunktion, 10–80 Nm.", "category": { "id": 3, "name": "Werkzeuge", "slug": "werkzeuge", "image": "https://placehold.co/200x150?text=Werkzeuge" }, "images": ["https://placehold.co/800x600?text=Schluessel"], "subcategoryId": 5 },
-  { "id": 302, "title": "Satz Steckschlüssel 1/4\" (12-teilig)", "slug": "steckschluessel-satz-12", "price": 29.95, "description": "Robuste Steckschlüssel für Schraubarbeiten am Fahrzeug.", "category": { "id": 3, "name": "Werkzeuge", "slug": "werkzeuge", "image": "https://placehold.co/200x150?text=Werkzeuge" }, "images": ["https://placehold.co/800x600?text=Steckschluessel"], "subcategoryId": 5 },
-  { "id": 303, "title": "Digitales Multimeter", "slug": "digitales-multimeter", "price": 19.9, "description": "Multimeter zur Messung von Spannung, Strom und Widerstand.", "category": { "id": 3, "name": "Werkzeuge", "slug": "werkzeuge", "image": "https://placehold.co/200x150?text=Werkzeuge" }, "images": ["https://placehold.co/800x600?text=Multimeter"], "subcategoryId": 6 }
-]
