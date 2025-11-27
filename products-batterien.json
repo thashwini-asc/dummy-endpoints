@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1001,
+    "title": "AA Alkaline Batterie 4er Pack",
+    "slug": "aa-alkaline-batterie-4er-pack",
+    "price": 5.99,
+    "description": "Hochwertige AA-Batterien für Fernbedienungen, Spielzeug und Geräte.",
+    "image": "https://dummyimage.com/300x300/batterien1.jpg"
+  },
+  {
+    "id": 1002,
+    "title": "9V Batterie",
+    "slug": "9v-batterie",
+    "price": 3.49,
+    "description": "9V Batterie für Rauchmelder und andere elektronische Geräte.",
+    "image": "https://dummyimage.com/300x300/batterien2.jpg"
+  },
+  {
+    "id": 1003,
+    "title": "AA Rechargeable Batterie",
+    "slug": "aa-rechargeable-batterie",
+    "price": 12.99,
+    "description": "Wiederaufladbare AA-Batterien mit langer Lebensdauer.",
+    "image": "https://dummyimage.com/300x300/batterien3.jpg"
+  }
+]
