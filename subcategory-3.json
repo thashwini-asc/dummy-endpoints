@@ -1,0 +1,12 @@
+[
+  {
+    "id": 201,
+    "title": "Universal-Schraubensatz (100er)",
+    "slug": "universal-schraubensatz-100er",
+    "price": 9.99,
+    "description": "Schrauben und Muttern in verschiedenen Größen für Montagearbeiten.",
+    "category": { "id": 2, "name": "Installation", "slug": "installation", "image": "https://placehold.co/200x150?text=Installation" },
+    "images": ["https://placehold.co/800x600?text=Schrauben"],
+    "subcategoryId": 3
+  }
+]
