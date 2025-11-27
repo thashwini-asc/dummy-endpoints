@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1011,
+    "title": "HDMI Kabel 2m",
+    "slug": "hdmi-kabel-2m",
+    "price": 9.99,
+    "description": "Hochwertiges HDMI Kabel für Full HD und 4K Geräte.",
+    "image": "https://dummyimage.com/300x300/kabel1.jpg"
+  },
+  {
+    "id": 1012,
+    "title": "USB-C Kabel 1m",
+    "slug": "usb-c-kabel-1m",
+    "price": 6.49,
+    "description": "Schnelles USB-C Kabel zum Laden und Datenübertragen.",
+    "image": "https://dummyimage.com/300x300/kabel2.jpg"
+  },
+  {
+    "id": 1013,
+    "title": "Stromkabel 3m",
+    "slug": "stromkabel-3m",
+    "price": 7.99,
+    "description": "Robustes Stromkabel für Haushaltsgeräte und Werkzeuge.",
+    "image": "https://dummyimage.com/300x300/kabel3.jpg"
+  }
+]
