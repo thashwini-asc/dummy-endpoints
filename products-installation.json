@@ -1,0 +1,50 @@
+[
+  {
+    "id": 2001,
+    "title": "Holzschrauben 100er Pack",
+    "slug": "holzschrauben-100er-pack",
+    "price": 8.99,
+    "description": "Vielseitige Holzschrauben für Möbel und Reparaturen.",
+    "image": "https://dummyimage.com/300x300/schrauben1.jpg"
+  },
+  {
+    "id": 2002,
+    "title": "Metallschrauben 50er Pack",
+    "slug": "metallschrauben-50er-pack",
+    "price": 6.99,
+    "description": "Starke Metallschrauben für Metallkonstruktionen.",
+    "image": "https://dummyimage.com/300x300/schrauben2.jpg"
+  },
+  {
+    "id": 2003,
+    "title": "Schraubenset gemischt",
+    "slug": "schraubenset-gemischt",
+    "price": 12.49,
+    "description": "Praktisches Set mit verschiedenen Schraubengrößen.",
+    "image": "https://dummyimage.com/300x300/schrauben3.jpg"
+  },
+  {
+    "id": 2011,
+    "title": "Wandhalterung TV 32-55 Zoll",
+    "slug": "wandhalterung-tv-32-55-zoll",
+    "price": 29.99,
+    "description": "Robuste TV-Wandhalterung für Fernseher von 32 bis 55 Zoll.",
+    "image": "https://dummyimage.com/300x300/halterungen1.jpg"
+  },
+  {
+    "id": 2012,
+    "title": "Regalhalterung Metall",
+    "slug": "regalhalterung-metall",
+    "price": 14.99,
+    "description": "Einfache und stabile Metallhalterung für Regale.",
+    "image": "https://dummyimage.com/300x300/halterungen2.jpg"
+  },
+  {
+    "id": 2013,
+    "title": "Deckenhalterung Lampe",
+    "slug": "deckenhalterung-lampe",
+    "price": 11.49,
+    "description": "Halterung für Lampen zur sicheren Deckenmontage.",
+    "image": "https://dummyimage.com/300x300/halterungen3.jpg"
+  }
+]
