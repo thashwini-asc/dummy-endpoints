@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Elektrik",
+    "slug": "elektrik",
+    "image": "https://dummyimage.com/elektrik.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Installation",
+    "slug": "installation",
+    "image": "https://dummyimage.com/installation.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Werkzeuge",
+    "slug": "werkzeuge",
+    "image": "https://dummyimage.com/werkzeuge.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Beleuchtung",
+    "slug": "beleuchtung",
+    "image": "https://dummyimage.com/beleuchtung.jpg"
+  }
+]
