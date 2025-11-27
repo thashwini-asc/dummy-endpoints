@@ -1,0 +1,26 @@
+[
+  {
+    "id": 4001,
+    "title": "LED Streifen 5m",
+    "slug": "led-streifen-5m",
+    "price": 19.99,
+    "description": "Flexibler LED Streifen für Wohnräume und Dekoration.",
+    "image": "https://dummyimage.com/300x300/ledlichter1.jpg"
+  },
+  {
+    "id": 4002,
+    "title": "LED Glühbirne E27 9W",
+    "slug": "led-gluehbirne-e27-9w",
+    "price": 4.99,
+    "description": "Energieeffiziente LED Glühbirne für Standardlampenfassungen.",
+    "image": "https://dummyimage.com/300x300/ledlichter2.jpg"
+  },
+  {
+    "id": 4003,
+    "title": "LED Spot 3W",
+    "slug": "led-spot-3w",
+    "price": 6.49,
+    "description": "Kompakter LED Spot für gezielte Beleuchtung.",
+    "image": "https://dummyimage.com/300x300/ledlichter3.jpg"
+  }
+]
