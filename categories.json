@@ -3,24 +3,24 @@
     "id": 1,
     "name": "Elektrik",
     "slug": "elektrik",
-    "image": "/elektrik"
+    "image": "/elektrik.jpg"
   },
   {
     "id": 2,
     "name": "Installation",
     "slug": "installation",
-    "image": "/installation"
+    "image": "/installation.jpg"
   },
   {
     "id": 3,
     "name": "Werkzeuge",
     "slug": "werkzeuge",
-    "image": "/werkzeuge"
+    "image": "/werkzeuge.jpg"
   },
   {
     "id": 4,
     "name": "Beleuchtung",
     "slug": "beleuchtung",
-    "image": "/beleuchtung"
+    "image": "/beleuchtung.jpg"
   }
 ]
