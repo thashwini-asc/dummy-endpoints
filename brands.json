@@ -1,12 +1,12 @@
 [
-{
-  id:1
-brand: 'Elparts',
-      slug: 'elparts'
+  {
+    "id": 1,
+    "brand": "Elparts",
+    "slug": "elparts"
   },
   {
-id:2
-    brand: 'Jakoparts',
-      slug: 'jakoparts',
+    "id": 2,
+    "brand": "Jakoparts",
+    "slug": "jakoparts"
   }
 ]
