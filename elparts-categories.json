@@ -1,0 +1,71 @@
+[
+  {
+    "brand": "Elparts",
+    "slug": "elparts",
+    "categories": [
+      {
+        "name": "Elektrik",
+        "slug": "elektrik",
+        "subCategories": [
+          {
+            "name": "Batterien",
+            "slug": "batterien",
+            "subSubCategories": [
+              {
+                "name": "Standard Batterien",
+                "slug": "standard-batterien",
+                "products": [
+                  { "id": 1001, "title": "AA Alkaline Batterie 4er Pack", "price": 5.99, "image": "https://images.unsplash.com/photo-1580717018153-1c4b8fde6b1a?w=500&auto=format&fit=crop&q=60" },
+                  { "id": 1002, "title": "AAA Alkaline Batterie 4er Pack", "price": 4.99, "image": "https://images.unsplash.com/photo-1603791440384-56cd371ee9a7?w=500&auto=format&fit=crop&q=60" }
+                ]
+              },
+              {
+                "name": "Wiederaufladbare",
+                "slug": "wiederaufladbare",
+                "products": [
+                  { "id": 1003, "title": "NiMH Akku AA 2000mAh", "price": 9.49, "image": "https://images.unsplash.com/photo-1602524811170-4d0e9a1e5f2f?w=500&auto=format&fit=crop&q=60" },
+                  { "id": 1004, "title": "Lithium Akku 18650 3000mAh", "price": 12.5, "image": "https://images.unsplash.com/photo-1563720221082-6a0b4b2f2f6d?w=500&auto=format&fit=crop&q=60" }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Kabel",
+            "slug": "kabel",
+            "subSubCategories": [
+              {
+                "name": "Starterkabel",
+                "slug": "starterkabel",
+                "products": [
+                  { "id": 1005, "title": "Jump Starter Kabel 400A", "price": 19.99, "image": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?w=500&auto=format&fit=crop&q=60" },
+                  { "id": 1006, "title": "Jump Starter Kabel 600A", "price": 26.0, "image": "https://images.unsplash.com/photo-1581091215367-6f3f93764db0?w=500&auto=format&fit=crop&q=60" }
+                ]
+              },
+              {
+                "name": "Verbindungskabel",
+                "slug": "verbindungskabel",
+                "products": [
+                  { "id": 1007, "title": "Batterie Verbindungskabel Rot 1.5m", "price": 8.75, "image": "https://images.unsplash.com/photo-1581093588401-5a8ef5d4f8d3?w=500&auto=format&fit=crop&q=60" }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Beleuchtung",
+        "slug": "beleuchtung",
+        "subCategories": [
+          {
+            "name": "LED-Lichter",
+            "slug": "led-lichter",
+            "products": [
+              { "id": 1008, "title": "Scheinwerfer LED H7", "price": 24.99, "image": "https://images.unsplash.com/photo-1541534401786-7e2b8b0f3f3c?w=500&auto=format&fit=crop&q=60" },
+              { "id": 1009, "title": "Innenraum LED Streifen 1m", "price": 9.99, "image": "https://images.unsplash.com/photo-1536383375566-0b9b86d0a6c2?w=500&auto=format&fit=crop&q=60" }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
