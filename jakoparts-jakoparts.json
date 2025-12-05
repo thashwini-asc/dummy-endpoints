@@ -1,0 +1,114 @@
+{
+    "brand": "Jakoparts",
+    "slug": "jakoparts",
+    "categories": [
+      {
+        "name": "Installation",
+        "slug": "installation",
+        "subCategories": [
+          {
+            "name": "Schrauben",
+            "slug": "schrauben",
+            "products": [
+              { "id": 1010, "title": "Karosserieschraube 5mm (10er)", "price": 6.5, "image": "https://images.unsplash.com/photo-1582719478250-1ecf9b6d3c9b?w=500&auto=format&fit=crop&q=60" },
+              { "id": 1011, "title": "Karosserieschraube 7mm (10er)", "price": 7.2, "image": "https://images.unsplash.com/photo-1581093588401-5a8ef5d4f8d3?w=500&auto=format&fit=crop&q=60" }
+            ]
+          },
+          {
+            "name": "Halterungen",
+            "slug": "halterungen",
+            "subSubCategories": [
+              {
+                "name": "Motorhalterungen",
+                "slug": "motorhalterungen",
+                "products": [
+                  { "id": 1012, "title": "Motorhalterung Gummi", "price": 34.0, "image": "https://images.unsplash.com/photo-1581091012184-9d8d8d5f1a1b?w=500&auto=format&fit=crop&q=60" },
+                  { "id": 1013, "title": "Motorhalterung Stahl", "price": 49.99, "image": "https://images.unsplash.com/photo-1582395762548-c0f5b1f6f3d3?w=500&auto=format&fit=crop&q=60" }
+                ]
+              },
+              {
+                "name": "Sensorhalterungen",
+                "slug": "sensorhalterungen",
+                "products": [
+                  { "id": 1014, "title": "ABS Sensor Halterung", "price": 12.0, "image": "https://images.unsplash.com/photo-1581094654358-c2a1b2f6a3f4?w=500&auto=format&fit=crop&q=60" }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Werkzeuge",
+        "slug": "werkzeuge",
+        "subCategories": [
+          {
+            "name": "Handwerkzeuge",
+            "slug": "handwerkzeuge",
+            "subSubCategories": [
+              {
+                "name": "Schraubenzieher Set",
+                "slug": "schraubenzieher-set",
+                "products": [
+                  { "id": 1015, "title": "Phillips Schraubenzieher Set 6tlg", "price": 14.99, "image": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?w=500&auto=format&fit=crop&q=60" },
+                  { "id": 1016, "title": "Torx Schraubenzieher Set 8tlg", "price": 17.5, "image": "https://images.unsplash.com/photo-1526403224740-0b9d8f7f3b92?w=500&auto=format&fit=crop&q=60" }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Zubehoer",
+            "slug": "zubehoer",
+            "products": [
+              { "id": 1017, "title": "Zangen Set 3tlg", "price": 22.0, "image": "https://images.unsplash.com/photo-1543163521-1bf539c55f1b?w=500&auto=format&fit=crop&q=60" }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "brand": "AutoMaster",
+    "slug": "automaster",
+    "categories": [
+      {
+        "name": "Elektrik",
+        "slug": "elektrik",
+        "subCategories": [
+          {
+            "name": "Kabel",
+            "slug": "kabel",
+            "products": [
+              { "id": 1018, "title": "Batteriekabel 2m", "price": 11.49, "image": "https://images.unsplash.com/photo-1581093458793-0b1f1a2b3c4d?w=500&auto=format&fit=crop&q=60" },
+              { "id": 1019, "title": "Verlängerungskabel 5m", "price": 13.99, "image": "https://images.unsplash.com/photo-1581093588401-5a8ef5d4f8d3?w=500&auto=format&fit=crop&q=60" }
+            ]
+          },
+          {
+            "name": "Batterien",
+            "slug": "batterien",
+            "subSubCategories": [
+              {
+                "name": "PKW Batterien",
+                "slug": "pkw-batterien",
+                "products": [
+                  { "id": 1020, "title": "Starterbatterie 12V 60Ah", "price": 89.99, "image": "https://images.unsplash.com/photo-1581091012184-9d8d8d5f1a1b?w=500&auto=format&fit=crop&q=60" }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Beleuchtung",
+        "slug": "beleuchtung",
+        "subCategories": [
+          {
+            "name": "Außenbeleuchtung",
+            "slug": "aussenbeleuchtung",
+            "products": [
+              { "id": 1021, "title": "Rücklicht LED Komplett", "price": 29.99, "image": "https://images.unsplash.com/photo-1541534401786-7e2b8b0f3f3c?w=500&auto=format&fit=crop&q=60" },
+              { "id": 1022, "title": "Nebelscheinwerfer Halogen", "price": 18.5, "image": "https://images.unsplash.com/photo-1536383375566-0b9b86d0a6c2?w=500&auto=format&fit=crop&q=60" }
+            ]
+          }
+        ]
+      }
+    ]
