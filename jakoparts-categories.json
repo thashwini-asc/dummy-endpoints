@@ -4,26 +4,81 @@
     "slug": "jakoparts",
     "categories": [
       {
-        "name": "Installation",
-        "slug": "installation",
+        "name": "Motor",
+        "slug": "motor",
         "subCategories": [
           {
-            "name": "Schrauben",
-            "slug": "schrauben"
+            "name": "Filter",
+            "slug": "filter",
+            "subSubCategories": [
+              { "name": "Ölfilter", "slug": "oelfilter" },
+              { "name": "Luftfilter", "slug": "luftfilter" }
+            ]
           },
           {
-            "name": "Halterungen",
-            "slug": "halterungen",
+            "name": "Zündsystem",
+            "slug": "zuendsystem",
             "subSubCategories": [
-              {
-                "name": "Motorhalterungen",
-                "slug": "motorhalterungen"
-              },
-              {
-                "name": "Sensorhalterungen",
-                "slug": "sensorhalterungen"
-              }
+              { "name": "Zündkerzen", "slug": "zuendkerzen" }
             ]
+          }
+        ]
+      },
+      {
+        "name": "Kraftübertragung",
+        "slug": "kraftuebertragung",
+        "subCategories": [
+          {
+            "name": "Kupplung",
+            "slug": "kupplung",
+            "subSubCategories": [
+              { "name": "Kupplungsscheiben", "slug": "kupplungsscheiben" }
+            ]
+          },
+          {
+            "name": "Getriebe",
+            "slug": "getriebe"
+          }
+        ]
+      },
+      {
+        "name": "Bremse",
+        "slug": "bremse",
+        "subCategories": [
+          {
+            "name": "Bremsbeläge",
+            "slug": "bremsbelaege"
+          },
+          {
+            "name": "Bremsscheiben",
+            "slug": "bremsscheiben"
+          }
+        ]
+      },
+      {
+        "name": "Fahrgestell",
+        "slug": "fahrgestell",
+        "subCategories": [
+          {
+            "name": "Stoßdämpfer",
+            "slug": "stossdaempfer"
+          }
+        ]
+      },
+      {
+        "name": "Elektrik",
+        "slug": "elektrik",
+        "subCategories": [
+          {
+            "name": "Batterien",
+            "slug": "batterien",
+            "subSubCategories": [
+              { "name": "PKW Batterien", "slug": "pkw-batterien" }
+            ]
+          },
+          {
+            "name": "Kabel",
+            "slug": "kabel"
           }
         ]
       },
@@ -35,15 +90,8 @@
             "name": "Handwerkzeuge",
             "slug": "handwerkzeuge",
             "subSubCategories": [
-              {
-                "name": "Schraubenzieher Set",
-                "slug": "schraubenzieher"
-              }
+              { "name": "Schraubenzieher Set", "slug": "schraubenzieher-set" }
             ]
-          },
-          {
-            "name": "Zubehoer",
-            "slug": "zubehoer"
           }
         ]
       }
@@ -54,32 +102,68 @@
     "slug": "automaster",
     "categories": [
       {
-        "name": "Elektrik",
-        "slug": "elektrik",
+        "name": "Motor",
+        "slug": "motor",
         "subCategories": [
           {
-            "name": "Kabel",
-            "slug": "kabel"
-          },
-          {
-            "name": "Batterien",
-            "slug": "batterien",
+            "name": "Kühlsystem",
+            "slug": "kuehlsystem",
             "subSubCategories": [
-              {
-                "name": "PKW Batterien",
-                "slug": "pkw-batterien"
-              }
+              { "name": "Wasserpumpen", "slug": "wasserpumpen" }
             ]
           }
         ]
       },
       {
-        "name": "Beleuchtung",
-        "slug": "beleuchtung",
+        "name": "Kraftübertragung",
+        "slug": "kraftuebertragung",
         "subCategories": [
           {
-            "name": "Außenbeleuchtung",
-            "slug": "aussenbeleuchtung"
+            "name": "Antriebswelle",
+            "slug": "antriebswelle"
+          }
+        ]
+      },
+      {
+        "name": "Bremse",
+        "slug": "bremse",
+        "subCategories": [
+          {
+            "name": "ABS Sensoren",
+            "slug": "abs-sensoren"
+          }
+        ]
+      },
+      {
+        "name": "Fahrgestell",
+        "slug": "fahrgestell",
+        "subCategories": [
+          {
+            "name": "Radlager",
+            "slug": "radlager"
+          }
+        ]
+      },
+      {
+        "name": "Elektrik",
+        "slug": "elektrik",
+        "subCategories": [
+          {
+            "name": "Beleuchtung",
+            "slug": "beleuchtung",
+            "subSubCategories": [
+              { "name": "LED-Scheinwerfer", "slug": "led-scheinwerfer" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Werkzeuge",
+        "slug": "werkzeuge",
+        "subCategories": [
+          {
+            "name": "Messwerkzeuge",
+            "slug": "messwerkzeuge"
           }
         ]
       }
