@@ -1,4 +1,5 @@
-{
+[
+  {
     "brand": "Jakoparts",
     "slug": "jakoparts",
     "categories": [
@@ -8,7 +9,7 @@
         "subCategories": [
           {
             "name": "Schrauben",
-            "slug": "schrauben",
+            "slug": "schrauben"
           },
           {
             "name": "Halterungen",
@@ -16,11 +17,11 @@
             "subSubCategories": [
               {
                 "name": "Motorhalterungen",
-                "slug": "motorhalterungen",
+                "slug": "motorhalterungen"
               },
               {
                 "name": "Sensorhalterungen",
-                "slug": "sensorhalterungen",
+                "slug": "sensorhalterungen"
               }
             ]
           }
@@ -36,13 +37,13 @@
             "subSubCategories": [
               {
                 "name": "Schraubenzieher Set",
-                "slug": "schraubenzieher-set",
+                "slug": "schraubenzieher-set"
               }
             ]
           },
           {
             "name": "Zubehoer",
-            "slug": "zubehoer",
+            "slug": "zubehoer"
           }
         ]
       }
@@ -58,7 +59,7 @@
         "subCategories": [
           {
             "name": "Kabel",
-            "slug": "kabel",
+            "slug": "kabel"
           },
           {
             "name": "Batterien",
@@ -66,7 +67,7 @@
             "subSubCategories": [
               {
                 "name": "PKW Batterien",
-                "slug": "pkw-batterien",
+                "slug": "pkw-batterien"
               }
             ]
           }
@@ -78,8 +79,10 @@
         "subCategories": [
           {
             "name": "Außenbeleuchtung",
-            "slug": "aussenbeleuchtung",
+            "slug": "aussenbeleuchtung"
           }
         ]
       }
     ]
+  }
+]
