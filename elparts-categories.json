@@ -38,6 +38,26 @@
         ]
       },
       {
+        "name": "Installation",
+        "slug": "installation",
+        "subCategories": [
+          {
+            "name": "LED-Lichter",
+            "slug": "led-lichter"
+          }
+        ]
+      },
+      {
+        "name": "Werkzeuge",
+        "slug": "werkzeuge",
+        "subCategories": [
+          {
+            "name": "LED-Lichter",
+            "slug": "led-lichter"
+          }
+        ]
+      },
+      {
         "name": "Beleuchtung",
         "slug": "beleuchtung",
         "subCategories": [
