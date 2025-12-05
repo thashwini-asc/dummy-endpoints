@@ -1,0 +1,26 @@
+[
+  {
+    "id": 2001,
+    "title": "Holzschrauben 100er Pack",
+    "slug": "holzschrauben-100er-pack",
+    "price": 8.99,
+    "description": "Vielseitige Holzschrauben für Möbel und Reparaturen.",
+    "image": "https://images.unsplash.com/photo-1527383418406-f85a3b146499?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGNhciUyMHBhcnRzfGVufDB8fDB8fHww"
+  },
+  {
+    "id": 2002,
+    "title": "Metallschrauben 50er Pack",
+    "slug": "metallschrauben-50er-pack",
+    "price": 6.99,
+    "description": "Starke Metallschrauben für Metallkonstruktionen.",
+    "image": "https://images.unsplash.com/photo-1611633859589-7990d2fbb56b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fGNhciUyMHBhcnRzfGVufDB8fDB8fHww"
+  },
+  {
+    "id": 2003,
+    "title": "Schraubenset gemischt",
+    "slug": "schraubenset-gemischt",
+    "price": 12.49,
+    "description": "Praktisches Set mit verschiedenen Schraubengrößen.",
+    "image": "https://plus.unsplash.com/premium_photo-1673208484517-deeab27359b4?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fGNhciUyMHBhcnRzfGVufDB8fDB8fHww"
+  }
+]
