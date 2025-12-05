@@ -1,4 +1,5 @@
-[{
+[
+  {
     "brand": "Elparts",
     "slug": "elparts",
     "categories": [
@@ -12,11 +13,11 @@
             "subSubCategories": [
               {
                 "name": "Standard Batterien",
-                "slug": "standard-batterien",
+                "slug": "standard-batterien"
               },
               {
                 "name": "Wiederaufladbare",
-                "slug": "wiederaufladbare",
+                "slug": "wiederaufladbare"
               }
             ]
           },
@@ -26,11 +27,11 @@
             "subSubCategories": [
               {
                 "name": "Starterkabel",
-                "slug": "starterkabel",
+                "slug": "starterkabel"
               },
               {
                 "name": "Verbindungskabel",
-                "slug": "verbindungskabel",
+                "slug": "verbindungskabel"
               }
             ]
           }
@@ -42,9 +43,10 @@
         "subCategories": [
           {
             "name": "LED-Lichter",
-            "slug": "led-lichter",
+            "slug": "led-lichter"
           }
         ]
       }
     ]
-  }]
+  }
+]
